@@ -68,7 +68,7 @@ export default async function RootLayout({
   return (
     <html lang="en" className={`${inter.variable} bg-white text-black`}>
       <body>
-        <section className="min-h-screen">
+        <section className="min-h-screen mt-32">
           <AlertBanner />
           <main>{children}</main>
           <footer className="bg-accent-1 border-accent-2 border-t">
