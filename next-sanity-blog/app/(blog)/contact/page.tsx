@@ -4,7 +4,7 @@ import ContactForm from '../ContactForm'
 const contact = () => {
   return (
     <div>
-      <ContactForm />
+      <ContactForm/>
     </div>
   )
 }

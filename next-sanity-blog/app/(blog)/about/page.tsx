@@ -35,7 +35,7 @@ const About= () => {
           <div className="mt-6">
             <Link
               href="/contact"
-              className="bg-blue-500 text-white py-3 px-6 rounded-md shadow-lg hover:bg-blue-600 transition"
+              className="bg-gray-800 text-white py-3 px-6 rounded-md shadow-lg hover:bg-gray-600 transition"
             >
               Contact Us
             </Link>

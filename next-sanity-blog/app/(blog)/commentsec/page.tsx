@@ -60,7 +60,7 @@ const Commentsec = () => {
           />
           <button
             onClick={handleAddComment}
-            className="bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600 transition w-full sm:w-auto sm:self-end"
+            className="bg-gray-900 text-white py-2 px-4 rounded-md hover:bg-gray-600 transition w-full sm:w-auto sm:self-end"
           >
             Add Comment
           </button>
