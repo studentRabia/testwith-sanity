@@ -21,8 +21,8 @@ export default function Navbar() {
             <Link href="/" className="hover:text-gray-300">
               Home
             </Link>
-            <Link href="/blog" className="hover:text-gray-300">
-              Blog
+            <Link href="/about" className="hover:text-gray-300">
+            About
             </Link>
             <Link href="/contact" className="hover:text-gray-300">
               Contact
@@ -74,11 +74,11 @@ export default function Navbar() {
               Home
             </Link>
             <Link
-              href="/blog"
+              href="/about"
               onClick={handleCloseMenu}
               className="block px-3 py-2 rounded-md text-base font-medium hover:bg-gray-700"
             >
-              Blog
+             About
             </Link>
             <Link
               href="/contact"
